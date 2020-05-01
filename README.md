@@ -14,7 +14,7 @@
 
 ### Animation
 
-## References
+### References
 
 
 
@@ -32,7 +32,7 @@
 
 ### Animation
 
-## References
+### References
 
 
 ## Multiplicative Hashing
@@ -49,4 +49,4 @@
 ### Animation
 (eventually substituted by animation in how it works)
 
-## References
+### References
