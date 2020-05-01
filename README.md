@@ -14,6 +14,8 @@
 
 ### Animation
 
+## References
+
 
 
 ## Perfect Hashing
@@ -30,6 +32,8 @@
 
 ### Animation
 
+## References
+
 
 ## Multiplicative Hashing
 
@@ -44,3 +48,5 @@
 
 ### Animation
 (eventually substituted by animation in how it works)
+
+## References
